@@ -2,6 +2,7 @@
 2.mutual exculsive event
 3.not mutual exculsive event
 4.additive rule
+5.multiplicative rule
 
 
 Here’s a highly detailed, structured prompt you can use to master **Probability**:
